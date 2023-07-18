@@ -1,5 +1,12 @@
 ### Hi there 👋
+🌈 I'm fluent in Javascript, React, CSS and sarcasm.\
+🌱 I’m currently learning Typescript and GraphQL\
+🐉 When I'm not coding I love playing Dungeon's & Dragons
 
+while not success:\
+    coffee()\
+    code()\
+    repeat()
 <!--
 **ptieman/ptieman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
