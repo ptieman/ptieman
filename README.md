@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌈 I'm fluent in Javascript, React, CSS and sarcasm.\
+🌈 I'm fluent in Javascript, React, CSS and dad jokes.\
 🌱 I’m currently learning Typescript and GraphQL\
 🐉 When I'm not coding I love playing Dungeon's & Dragons
 
